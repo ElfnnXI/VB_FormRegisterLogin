@@ -1,0 +1,14 @@
+
+#Seluruhnya
+
+1. Program menyambungkan ke Database
+
+#Form Login
+
+1. program forgot password/lupa password
+
+#Form Register
+
+1. Create Account Button
+2. Confirm password check true
+3. Multi choice selected 
